@@ -240,9 +240,14 @@ function App() {
               >
                 Get a Quote
               </a>
-              <button className={`px-8 py-3 border-2 border-[#EDAF3D] rounded-full hover:bg-[#EDAF3D] hover:text-black transition-all transform hover:scale-105 font-semibold ${isDarkMode ? 'text-white' : 'text-black'}`}>
+
+               <a 
+               href="#contact" 
+              className={`px-8 py-3 border-2 border-[#EDAF3D] rounded-full hover:bg-[#EDAF3D] hover:text-black transition-all transform hover:scale-105 font-semibold ${isDarkMode ? 'text-white' : 'text-black'}`}>
                 Contact Us
-              </button>
+              </a>
+
+              
             </div>
           </div>
         </div>
