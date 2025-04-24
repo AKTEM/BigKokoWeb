@@ -8,7 +8,7 @@ export function Blog() {
   const posts = [
     {
       id: 'ai-security',
-      title: 'Sds systems',
+      title: 'Smart Defense Systems',
       excerpt: 'Exploring how artificial intelligence is revolutionizing the security industry with predictive analytics and autonomous response capabilities.',
       content: `Artificial intelligence is fundamentally transforming the security landscape, introducing unprecedented capabilities in threat detection, response automation, and predictive analytics. This evolution marks a significant shift from traditional security approaches to more sophisticated, intelligent systems.
 
